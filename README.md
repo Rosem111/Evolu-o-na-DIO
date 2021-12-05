@@ -1,5 +1,5 @@
-# Evolução na DIO
-Conquistas no Momento Atual
+# Repositório para Compartilhar Progesso Git/GitHub na DIO
+Progresso GitHub
 
 # Links Úteis
 
