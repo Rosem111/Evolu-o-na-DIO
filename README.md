@@ -1,2 +1,2 @@
-# Evolu-o-na-DIO
-Conquistas no Atual Momento
+# Evolução na DIO
+Conquistas no Momento Atual
