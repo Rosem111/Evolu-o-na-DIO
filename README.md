@@ -1,4 +1,4 @@
-# Repositório para Compartilhar Progesso Git/GitHub na DIO
+# Compartilhando Progesso Git/GitHub na DIO
 Progresso GitHub
 
 # Links Úteis
