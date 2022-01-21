@@ -1,6 +1,6 @@
 namespace Demo1.src.entities
 {
-    public abstract class Hero // Classe ABSTRATA que é a classe MÃE.
+    public abstract class Hero 
     {
             public Hero(string Name, int Level, string HeroType) {
             this.Name = Name;
