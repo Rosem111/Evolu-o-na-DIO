@@ -1,0 +1,15 @@
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\Demo1.exe
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\Demo1.deps.json
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\Demo1.runtimeconfig.json
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\Demo1.dll
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\ref\Demo1.dll
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\bin\Debug\net6.0\Demo1.pdb
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.csproj.AssemblyReference.cache
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfoInputs.cache
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfo.cs
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.csproj.CoreCompileInputs.cache
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.dll
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\ref\Demo1.dll
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.pdb
+D:\Users\rosem\Documents\CURSOS DIVERSOS\Curso Digital Innovation One\Visual Studio\Orientado a Objeto\Demo1\obj\Debug\net6.0\Demo1.genruntimeconfig.cache
