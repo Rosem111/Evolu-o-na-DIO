@@ -1,14 +1,5 @@
-﻿/* 
-Os 4 pilares da ORIENTAÇÃO A OBJETOS saõ o H.E.P.A :
- Herança - Você herda os comportamentos de uma outra classe.
- Encapsulamento - Você concentra as regra do negócio dentro da própria classe.
- Polimorfismo - Você tem um método com o mesmo nome mais com diferentes comportamentos.
- Abstração - Você faz uma representação em geral de alguma coisa em comum para que 
-             se comece a herdar.
- 
- */
 
-using Demo1.src.entities; // Em cima do nome da classe - Control (.) para usar esse using.
+using Demo1.src.entities; 
 using Microsoft.VisualBasic;
 
 Knight Arus = new Knight("Arus", 23, "Knight");

@@ -9,7 +9,7 @@ namespace Demo1.src.entities
             this.HeroType = HeroType;
         }
         public override string Attack() {
-            return this.Name + " Lançou Magia Negra com força total."; // O polimorfismo foi dessa frase.
+            return this.Name + " Lançou Magia Negra com força total."; 
         }
     }
 }

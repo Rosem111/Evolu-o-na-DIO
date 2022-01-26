@@ -1,6 +1,6 @@
 namespace Demo1.src.entities
 {
-    public class Wizard : Hero // Herança de Hero
+    public class Wizard : Hero 
     {   
         public Wizard(string Name, int Level, string HeroType)
         {
@@ -9,11 +9,11 @@ namespace Demo1.src.entities
             this.HeroType = HeroType;
         }
         public override string Attack() {
-            return this.Name + " Lançou Magia."; // O polimorfismo foi dessa frase.
+            return this.Name + " Lançou Magia."; 
         }
-        // Exemplo de POLIMORFISMO com ENCAPSULAMENTO.
+        
         public string Attack(int Bonus) {
-            //Encapsulamento.
+            
             if (Bonus > 6)
             {
                 return this.Name + " Lançou Magia super efetiva com bonus de " + Bonus + ".";
