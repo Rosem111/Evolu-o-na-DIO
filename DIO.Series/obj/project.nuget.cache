@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwEOITcEgf5A0W3l1FIxQDDQvue6cKdXxXGWHZ0hsfc2I+F4Ja/ssCeteLoVuCKZapzvcNSXXiQb9pstNkMZ9A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\rosem\\Documents\\CURSOS DIVERSOS\\Curso Digital Innovation One\\Visual Studio\\DIO-BootCamp-Blip-Projetos\\ProjetoDIO\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rosem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rosem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rosem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
